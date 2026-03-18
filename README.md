@@ -70,7 +70,8 @@ copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
 echo Backup completed successfully!
 
 ## OUTPUT :
-![WhatsApp Image 2024-05-07 at 19 36 14_9ddc8782](https://github.com/HIRU-VIRU/Windows-basic-commands-batchscript/assets/145972122/1e8bd16c-f8d8-460c-8330-25beff843206)
+![328574602-1e8bd16c-f8d8-460c-8330-25beff843206](https://github.com/user-attachments/assets/9be8bb67-b31c-417d-98d1-cbff2071bf3d)
+
 
 
 ## RESULT :
